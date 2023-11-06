@@ -10,7 +10,13 @@ Features
 * Determines the shortest path between any two metro stations in the Chennai Metro network.
 * Includes a set of JUnit tests to ensure the correctness of the application.
 
-  ![Screenshot from 2023-11-06 23-24-11](https://github.com/Siddharthrajrana/Chennai_Metro/assets/92222918/916f11ac-dad5-4e4b-878d-c953c5214aeb)
+Demo Via ScreenShots 
+
+![Screenshot from 2023-11-06 23-24-11](https://github.com/Siddharthrajrana/Chennai_Metro/assets/92222918/916f11ac-dad5-4e4b-878d-c953c5214aeb)
+![chennai_metro](https://github.com/Siddharthrajrana/Chennai_Metro/assets/92222918/2c24716f-f2e5-40cd-aa94-fecbecf00f6a)
+![Screenshot from 2023-11-06 23-27-47](https://github.com/Siddharthrajrana/Chennai_Metro/assets/92222918/2ec0c3b7-1577-418a-995c-d2bdc43accdf)
+![Screenshot from 2023-11-06 23-25-10](https://github.com/Siddharthrajrana/Chennai_Metro/assets/92222918/028b201c-08a9-4534-b91c-e689470fe612)
+
     
 
 Getting Started
@@ -60,10 +66,10 @@ If you'd like to contribute to this project, you can follow these steps:
     Push your changes to your forked repository.
     Create a pull request with a detailed description of your changes.
 
-Demo From Screenshots 
 
-![Screenshot from 2023-11-06 23-25-10](https://github.com/Siddharthrajrana/Chennai_Metro/assets/92222918/028b201c-08a9-4534-b91c-e689470fe612)
-![Screenshot from 2023-11-06 23-27-47](https://github.com/Siddharthrajrana/Chennai_Metro/assets/92222918/2ec0c3b7-1577-418a-995c-d2bdc43accdf)
+
+
+
 
 
 
